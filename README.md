@@ -1,2 +1,3 @@
 # BANKING-SECTOR
 BANKING SECTOR
+This mini project is about creating a simple **ATM system using Python and OOPS concepts**. It shows how an ATM works in real life by using classes to store account details safely and perform operations like checking balance, depositing money, withdrawing money, viewing account information, and exiting the system. The project uses important OOPS ideas such as abstraction, encapsulation, inheritance, and polymorphism, and runs as a menu-based program that keeps asking the user for input until they choose to exit. Overall, this project helps beginners understand how real-world banking systems can be built in an easy and practical way using Python.
